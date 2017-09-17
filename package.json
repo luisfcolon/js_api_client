@@ -1,6 +1,6 @@
 {
   "name": "js_api_client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript api client wrapper for Axios",
   "main": "dist",
   "scripts": {
