@@ -12,22 +12,22 @@ Javascript api client wrapper around Axios.
 With yarn
 
 ```
-yarn add js_api_client
+yarn add js-api-client
 ```
 
 With npm
 
 ```
-npm install js_api_client --save
+npm install js-api-client --save
 ```
 
 ## Usage
 
 ```js
-import ApiClient from 'js_api_client';
+import ApiClient from 'js-api-client';
 
 const client = new ApiClient({
-  baseURL: 'https://www.some-api-base-url',
+  baseURL: 'https://www.some-api-base-url.com',
 });
 
 // get
