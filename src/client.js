@@ -36,7 +36,7 @@ class ApiClient {
   }
 
   delete(path, data = {}) {
-    return this.client.delete(path);
+    return this.client.delete(path, data);
   }
 }
 
