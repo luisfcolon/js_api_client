@@ -1,7 +1,7 @@
 import moxios from 'moxios';
 import sinon from 'sinon';
 
-import ApiClient from './client';
+import ApiClient from './index';
 
 
 describe('ApiClient', () => {

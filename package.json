@@ -1,6 +1,6 @@
 {
   "name": "js-api-client",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Javascript api client wrapper for Axios",
   "main": "dist",
   "scripts": {
@@ -27,13 +27,15 @@
   "homepage": "https://github.com/luisfcolon/js_api_client#readme",
   "dependencies": {
     "axios": "^0.16.2",
-    "babel-cli": "^6.26.0",
     "babel-jest": "^21.0.2",
     "babel-preset-es2015": "^6.24.1",
     "coveralls": "^2.13.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-uglifyjs": "^0.6.2",
     "jest": "^21.1.0",
     "moxios": "^0.4.0",
-    "ohas": "^1.0.1",
+    "ohas": "^1.0.4",
     "sinon": "^3.2.1"
   },
   "jest": {
