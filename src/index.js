@@ -4,7 +4,7 @@ import has from 'ohas';
 
 const defaultConfig = {
   headers: {
-    Accept: 'application/x.kidfund.v2+json, application/json',
+    Accept: 'application/json',
     'Content-Type': 'application/json',
   },
   timeout: 8000,
