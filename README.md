@@ -34,19 +34,19 @@ const client = new ApiClient({
 // get
 
 const getResponse = client.get('/users/1')
-    .then(successHandler)
-    .catch(errorHandler);
+  .then(successHandler)
+  .catch(errorHandler);
 
 // post
     
 const userData = {
-    firstName: 'Luis',
-    lastName: 'Colon',
+  firstName: 'Luis',
+  lastName: 'Colon',
 };
 
 const postResponse = client.post('/users', userData)
-    .then(successHandler)
-    .catch(errorHandler);
+  .then(successHandler)
+  .catch(errorHandler);
 
 // etc
 
