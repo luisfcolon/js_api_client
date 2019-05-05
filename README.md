@@ -1,5 +1,6 @@
 # Javascript Api Client
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 [![Build Status](https://travis-ci.org/luisfcolon/js-api-client.svg?branch=master)](https://travis-ci.org/luisfcolon/js-api-client)
 [![Coverage Status](https://coveralls.io/repos/github/luisfcolon/js-api-client/badge.svg?branch=master)](https://coveralls.io/github/luisfcolon/js-api-client?branch=master)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/luisfcolon/js-api-client/master/LICENSE)
